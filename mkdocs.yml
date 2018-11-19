@@ -1,2 +1,7 @@
+site_name: Code California Playbook
+repo_url: https://github.com/cagov/playbook/
+site_url: https://codecagov-playbook.readthedocs.io/en/latest/
 theme:
     name: mkdocs
+plugins:
+- search
