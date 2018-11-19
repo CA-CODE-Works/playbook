@@ -3,5 +3,7 @@ repo_url: https://github.com/cagov/playbook/
 site_url: https://codecagov-playbook.readthedocs.io/en/latest/
 theme:
     name: mkdocs
+    extra_css:
+    - css/extra.css
 plugins:
 - search
