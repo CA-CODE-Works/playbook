@@ -26,3 +26,6 @@ p {
     font-size: 20px;
     margin-bottom: 28px;
 }
+h1 {
+  font-size: 200%;
+}
