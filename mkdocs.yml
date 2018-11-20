@@ -6,14 +6,12 @@ site_url: https://codecagov-playbook.readthedocs.io/en/latest/
 
 theme:
     name: readthedocs
-    
-logo: https://cagov.github.io/codeCAgov/img/logo.svg
-  
+      
 extra_css:
 - css/extra.css
 
 plugins:
-- search
+    - search
 
 nav:
     - Intro: docs/readme.md
@@ -21,5 +19,3 @@ nav:
         - Why: docs/why/why.md
     - About:
         - About: docs/about/about.md
-    
-footer: Powered by Read the Docs
