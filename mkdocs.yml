@@ -19,3 +19,9 @@ nav:
         - Why: docs/why/why.md
     - About:
         - About: docs/about/about.md
+
+  social:
+    - type: globe
+      link: https://cagov.github.io/codeCAgov/
+    - type: twitter
+      link: https://twitter.com/codecagov
