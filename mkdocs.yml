@@ -6,7 +6,7 @@ repo_url: https://github.com/cagov/playbook/
 theme:
     name: readthedocs
 
-nav:
+pages:
     - Why:
         - Why: why.md
     - About:
