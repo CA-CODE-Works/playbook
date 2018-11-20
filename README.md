@@ -1,2 +1,3 @@
-# playbook
-Code California playbook
+# Intro
+
+Welcome to the Code California playbook.
