@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5, h6 {
 .wy-nav-content a:visited {
   color: #B90C30;
 }
+.wy-menu-vertical a:active {
+  background-color:#2980B9
+}
 .wy-side-nav-search {
   background-color: #B90C30;
 }
