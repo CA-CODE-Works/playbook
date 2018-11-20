@@ -8,11 +8,11 @@ theme:
 
 nav:
     - Why:
-        - Why: why/why.md
+        - Why: why.md
     - About:
-        - About: about/about.md
+        - About: about.md
     - Community:
-        - Community: community/community.md
+        - Community: community.md
     - Code California: https://cagov.github.io/codeCAgov/
 
 extra_css:
