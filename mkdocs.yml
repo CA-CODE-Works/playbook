@@ -8,12 +8,9 @@ theme:
 
 pages:
     - Welcome: README.md
-    - Why:
-        - Why: why.md
-    - About:
-        - About: about.md
-    - Community:
-        - Community: community.md
+    - Why: why.md
+    - About: about.md
+    - Community: community.md
 
 extra_css:
     - css/extra.css
