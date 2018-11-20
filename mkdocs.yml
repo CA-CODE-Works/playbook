@@ -14,7 +14,7 @@ plugins:
     - search
 
 nav:
-    - Intro: docs/readme.md
+    - Welcome: docs/readme.md
     - Why:
         - Why: docs/why/why.md
     - About:
