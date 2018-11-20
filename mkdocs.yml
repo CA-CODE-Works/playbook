@@ -1,17 +1,10 @@
 site_name: Code California Playbook
+site_url: https://codecagov-playbook.readthedocs.io/en/latest/
 
 repo_url: https://github.com/cagov/playbook/
 
-site_url: https://codecagov-playbook.readthedocs.io/en/latest/
-
 theme:
     name: readthedocs
-      
-extra_css:
-- css/extra.css
-
-plugins:
-    - search
 
 nav:
     - Why:
@@ -21,3 +14,9 @@ nav:
     - Community:
         - Community: community/community.md
     - Code California: https://cagov.github.io/codeCAgov/
+
+extra_css:
+    - css/extra.css
+
+plugins:
+    - search
