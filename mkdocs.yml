@@ -14,3 +14,5 @@ nav:
     - 'Why': '/docs/why/why.md'
 - About:
     - 'About': '/docs/about/about.md'
+
+footer: Powered by Read the Docs
