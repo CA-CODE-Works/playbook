@@ -14,11 +14,11 @@ plugins:
     - search
 
 nav:
-    - Welcome: docs/README.md
+    - Welcome: README.md
     - Why:
-        - Why: docs/why/why.md
+        - Why: why/why.md
     - About:
-        - About: docs/about/about.md
+        - About: about/about.md
     - Community:
-        - Community: docs/community/community.md
+        - Community: community/community.md
     - Code California: https://cagov.github.io/codeCAgov/
