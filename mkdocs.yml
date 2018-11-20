@@ -20,11 +20,4 @@ nav:
     - About:
         - About: docs/about/about.md
 
-  social:
-    - type: globe
-      link: https://cagov.github.io/codeCAgov/
-    - type: twitter
-      link: https://twitter.com/codecagov
-      
-# Copyright
 copyright: "Coded with heart by Code California"
