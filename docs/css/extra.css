@@ -1,4 +1,4 @@
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, p, li, blockquote {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 900;
 }
@@ -18,3 +18,8 @@ h1, h2, h3, h4, h5, h6 {
 .wy-side-nav-search>div.version {
   color: #f1f1f1;
 }
+p {
+    line-height: 26px;
+    margin: 0;
+    font-size: 18px;
+    margin-bottom: 26px;
