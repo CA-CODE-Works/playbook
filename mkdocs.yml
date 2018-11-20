@@ -13,7 +13,6 @@ pages:
         - About: about.md
     - Community:
         - Community: community.md
-    - Code California: https://cagov.github.io/codeCAgov/
 
 extra_css:
     - css/extra.css
