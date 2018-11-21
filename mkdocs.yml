@@ -16,10 +16,9 @@ pages:
     - Training: training.md
     - Platform: platform.md
     - Governance:
-        - Governance: governance.md
-        - Onboarding: onboarding.md
-        - Workflow: workflow.md
-        - Licensing: licensing.md
+    - Onboarding: onboarding.md
+    - Workflow: workflow.md
+    - Licensing: licensing.md
     - Roadmap: roadmap.md
     - Metrics: metrics.md
     - Reporting: reporting.md
