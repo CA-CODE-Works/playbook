@@ -15,7 +15,8 @@ pages:
     - Events: events.md
     - Training: training.md
     - Platform: platform.md
-    - Governance: governance.md
+    - Governance:
+        - Governance: governance.md
         - Onboarding: onboarding.md
         - Workflow: workflow.md
         - Licensing: licensing.md
