@@ -30,3 +30,5 @@ extra_css:
 
 plugins:
     - search
+
+google_analytics: ['UA-129760497-3', 'playbook.code.ca.gov']
