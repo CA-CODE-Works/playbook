@@ -1,5 +1,13 @@
 # Ops
 
+All Code California operations are managed in the open for everyone to collaborate.
+
+## Project management
+
+* [GitHub repository](https://github.com/cagov/codeCAgov)
+
+* [Project board](https://github.com/cagov/codeCAgov/projects/1)
+
 ## Accounts
 
 Code California organizational accounts:
