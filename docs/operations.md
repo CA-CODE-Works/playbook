@@ -1,4 +1,4 @@
-# Ops
+# Operations
 
 All Code California operations are managed in the open for everyone to collaborate.
 
