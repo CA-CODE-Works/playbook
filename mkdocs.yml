@@ -17,6 +17,7 @@ pages:
     - Training: training.md
     - Platform: platform.md
     - Governance: governance.md
+    - Inventory: inventory.md
     - Onboarding: onboarding.md
     - Workflow: workflow.md
     - Licensing: licensing.md
