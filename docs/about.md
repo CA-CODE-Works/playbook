@@ -20,7 +20,7 @@ Code California will unite, educate and inspire the California government techno
 
 ### What we strive for
 
-(*[Repurposed from 18*F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))
+*([Repurposed from 18F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))*
 
 We strive to create a welcoming and inclusive culture that empowers people to provide outstanding public service. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
 
