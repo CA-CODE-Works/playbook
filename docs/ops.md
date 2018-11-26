@@ -28,10 +28,10 @@ Code California organizational accounts:
 
 ## Brand
 
-### Color
+* Brand name: Code California
 
-Code California blue: #0071bc
+* Tagline: Coding California government
 
-### Assets
+* Code California blue: #0071bc
 
-* [Logos / avatars](https://github.com/cagov/playbook/tree/master/docs/img)
+* [Assets](https://projects.invisionapp.com/boards/XA3QZ8J4NTG#/6297571)
