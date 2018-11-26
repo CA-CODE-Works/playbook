@@ -10,6 +10,7 @@ pages:
     - Welcome: README.md
     - Why: why.md
     - Policy: policy.md
+    - Feedback: feedback.md
     - About: about.md
     - Community: community.md
     - Events: events.md
