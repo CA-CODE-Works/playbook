@@ -23,7 +23,7 @@ pages:
     - Metrics: metrics.md
     - Reporting: reporting.md
     - Outreach: outreach.md
-    - Ops: ops.md
+    - Operations: operations.md
 
 extra_css:
     - css/extra.css
