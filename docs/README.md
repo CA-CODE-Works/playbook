@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the Code California playbook.
+Welcome to the Code California playbook!
 
 * [Read the State of California open source policy](policy.md)
 * [Join the Code California community](network.md)
