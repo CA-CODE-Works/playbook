@@ -2,7 +2,7 @@
 
 To best serve the people of California, those that support state government services must be empowered with a technology ecosystem optimized for exponential collaboration, innovation and success.
 
-### ‘Committed to improving’
+## ‘Committed to improving’
 
 The State of California facilitates this exponential ecosystem by establishing a precedent that empowers an open by default approach to government technology delivery.
 
@@ -10,7 +10,7 @@ As stated in the [California open source policy](https://www.documents.dgs.ca.go
 
 "The California Department of Technology (CDT) is committed to improving the way Agencies/state entities acquire, build, and deliver information technology (IT) solutions, to better support cost efficiency, effectiveness, and the public’s experience with government programs … Enhanced reuse of custom-developed code across state government can have significant benefits for taxpayers, including decreasing duplicative costs for the same code and reducing vendor lock-in."
 
-### The value of open
+## The value of open
 
 By emphasizing the use and distribution of open technologies, the California open source policy:
 
@@ -28,7 +28,7 @@ By emphasizing the use and distribution of open technologies, the California ope
 
 * Increases public reuse for exponential innovation potential
 
-### Open source government
+## Open source government
 
 California joins the U.S. Government and a growing number of government entities -- locally, nationally, globally -- adopting an open approach to technology, with the intent of efficiently and effectively delivering the critical services needed to the people of our state.
 
@@ -44,7 +44,7 @@ In October 2018, the U.S. Department of Defense, the largest purchaser of techno
 
 As the U.S. Government is doing, California will serve as an example and leader in how local, state and national governments adopt open source technologies that provide the best value and service to the people they serve.
 
-### Open community
+## Open community
 
 Community is critical to all successful open source initiatives, and Code California is dedicated to cultivating an authentic, supportive, open, collaborative network of digital government innovators.
 
@@ -54,6 +54,12 @@ As the Defense Department says on [code.mil](https://code.mil/why-open-source.ht
 
 Code California will reap the benefits of open source through a proactive commitment to its community and the people we serve.
 
-### Coding California’s future
+## Coding California’s future
 
 Through the open source policy and strategy established via Code California, the government service providers of California have a vision and implementation plan that serves its people openly, into the future.
+
+## Resources
+
+* [Why Open Source](https://code.mil/why-open-source.html) (Code.mil)
+
+* [DoD Open Source Software (OSS) FAQ](https://dodcio.defense.gov/Open-Source-Software-FAQ/) (U.S. Department of Defense)
