@@ -12,9 +12,9 @@ Code California will unite, educate and inspire the California government techno
 
 ### Values
 
-* We serve in the interest of the public
+* We serve in the interest of the public and want to be a trusted source
 
-* We maximize taxpayer value
+* We maximize taxpayer value by fostering interoperability
 
 * We work and collaborate in the open
 
