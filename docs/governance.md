@@ -8,6 +8,6 @@ The governance process for California State Government code release includes the
 
 * [Onboarding](onboarding.md)
 
-* [Workflow](worlkflow.md)
+* [Workflow](workflow.md)
 
 * [Licensing](licensing.md)
