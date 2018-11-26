@@ -89,3 +89,10 @@ Applicable exceptions are as follows:
 
 *Source: **[https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pd*f](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.2.pdf)* *
 
+## Resources
+
+* [Federal Source Code Policy](https://sourcecode.cio.gov/) (U.S. Government)
+
+* [Open source policy](https://18f.gsa.gov/open-source-policy/) (18F)
+
+* [Open Source Software](https://www.hhs.gov/open/2016-plan/open-source-software.html) (U.S. Department of Health & Human Services)
