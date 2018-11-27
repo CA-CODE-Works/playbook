@@ -6,6 +6,12 @@ Code California aims to increase awareness and socialize its activities through 
 
 * [Subscribe](https://www.facebook.com/codeCAgov)
 
+## Social media
+
+* Twitter ([@codeCAgov](https://twitter.com/CodeCAgov))
+
+* Facebook ([@codeCAgov](https://twitter.com/CodeCAgov))
+
 ## Blog
 
 The Code California blog is located at [medium.com/code-california](https://medium.com/code-california).
