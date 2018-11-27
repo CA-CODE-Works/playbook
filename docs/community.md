@@ -56,6 +56,28 @@ Code California is led collaboratively and actively supported by these Californi
 
 * [California Health and Human Services Agency](http://www.chhs.ca.gov/Pages/Home.aspx) - Office of Innovation
 
+## Product owner
+
+Code California is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
+
+* Translating community input and lessons learned into continuous improvement action items
+
+* Serving as the primary point of contact on general inquiries related to Code California
+
+* Coordinating administrative aspects of Working Group activities
+
+
+## Code coordinators
+
+Each agency/entity will have a designated code coordinator that:
+
+* Serves as the agency's primary open source point of contact
+
+* Serves as administrator of the agency’s code sharing platform organization account
+
+* Manages the publishing/maintenance of the agency's code.json file
+
+
 ## Working group
 
 The Code California Working Group is comprised of Code Coordinators from each California state agency. The Code California Working Group is led by the California Department of Technology Code Coordinator.
@@ -72,25 +94,7 @@ Working group members perform the following functions:
 
 * Review and publish quarterly participation metrics updates
 
-## Product owner
 
-Code California is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
-
-* Translating community input and lessons learned into continuous improvement action items
-
-* Serving as the primary point of contact on general inquiries related to Code California
-
-* Coordinating administrative aspects of Working Group activities
-
-## Code coordinators
-
-Each agency/entity will have a designated code coordinator that:
-
-* Serves as the agency's primary open source point of contact
-
-* Serves as administrator of the agency’s code sharing platform organization account
-
-* Manages the publishing/maintenance of the agency's code.json file
 
 ### Resources
 
