@@ -43,17 +43,6 @@ Code California is led collaboratively and actively supported by these Californi
 
     * [Digital Web Services Network](https://cdt.ca.gov/dwsn/)
 
-    * Information Technology Executive Council
-    
-       * California Natural Resources Agency
-       * California Department of Corrections and Rehabilitation
-       * California Department of Veterans Affairs
-       * California Environmental Protection Agency
-       * California Transportation Agency
-       * Labor and Workforce Development Agency 
-       * Business, Consumer Services and Housing Agency
-       * Department of Food and Agriculture
-
 * [California Health and Human Services Agency](http://www.chhs.ca.gov/Pages/Home.aspx) - Office of Innovation
 
 ## Product owner
