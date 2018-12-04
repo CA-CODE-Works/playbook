@@ -7,7 +7,7 @@ To facilitate a culture of exponential public sector digital innovation, Code Ca
 Code California hosts an online and and in person network for its community:
 
 * Slack ([codeCAgov](https://codecagov.slack.com/) / [join](https://join.slack.com/t/codecagov/shared_invite/enQtNDU3MDY2NDUyMTk3LTkxMzEwYzU3MzdkNTE3ZGE0OGY4MjU5YzUzMTE5ODgwZjc3ZDE3MjlhMjQ3NTJkN2Y2NzFmZDk0NzZmNzgwYmU))
-* The community can also participate and meet others through the Department of Technology’s (CDT) Digital Web Services Network Quarterly meetings.
+* The community can also participate and meet others through the Department of Technology’s (CDT) [Digital Web Services Network](https://cdt.ca.gov/dwsn/) Quarterly meetings.
 
 ## Users
 
