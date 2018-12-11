@@ -36,4 +36,4 @@ Code California organizational accounts:
 
 * Code California blue: #0071bc
 
-* [Assets](https://projects.invisionapp.com/boards/XA3QZ8J4NTG#/6297571)
+* [Assets](https://github.com/cagov/codecagov/tree/master/assets)
