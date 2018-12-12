@@ -4,7 +4,7 @@ Code California will provide an annual report of the open source software develo
 
 This could include:
 
-* Agency development activity
+* Agency custom-code development activity
 
 * Project(s) momentum
 
