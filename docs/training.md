@@ -8,7 +8,7 @@ This year CDT and GovOps partnered with CivicActions to develop and deliver Open
 
 The curriculum is open source, the sessions were recorded, and we plan to iterate from this training to expand it to the Code California Community.
 
-## Tentative Tracks
+## Tentative tracks
 
 * Executive
 
