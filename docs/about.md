@@ -4,7 +4,7 @@ Code California is an open collaboration between agencies, industry technology p
 
 ## Objective
 
-To facilitate California state agency implementation of the open source software (OSS)and code reuse policy as outlined in [Technology Letter 18-02](https://docs.google.com/document/d/1hXYzV_KW49epVuj9EuUGP1hNNARRMf_yVi1Uz5XX_oI/edit#heading=h.urh5wmrr4rhi).
+To cultivate an authentic, supportive, open, collaborative network of digital government innovators and facilitate California state agency implementation of the Open Source Software (OSS)and Code Reuse policy as outlined in [Technology Letter 18-02](#heading=h.urh5wmrr4rhi).
 
 ## Mission
 
@@ -20,7 +20,7 @@ Code California will unite, educate and inspire the California government techno
 
 ## What we strive for
 
-*([Repurposed from 18F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))*
+(*[Repurposed from 18*F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))
 
 We strive to create a welcoming and inclusive culture that empowers people to provide outstanding public service. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
 
