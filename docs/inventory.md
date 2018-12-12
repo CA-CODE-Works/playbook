@@ -1,6 +1,6 @@
 # Inventory
 
-**IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details.**
+**IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details. **
 
 To effectively assess where best to streamline statewide-wide government software procurement and development, Code California has developed the California Government Software Inventory protocol. The intent of CGSI is to itemize available state government software for re-use and introduce a standardize schema that effectively documents this.
 
