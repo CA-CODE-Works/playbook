@@ -1,5 +1,7 @@
 # Metrics
 
+**IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details.**
+
 A key component of any successful initiative includes establishing productive metrics that encourage productive participation and create accountability. Metrics for Code California will refrain from instilling an atmosphere of compliance, but instead one of community, which is fundamental to a thriving open source ecosystem.
 
 By deploying a collaborative strategy to agency open source participation, our approach to 2019 metrics encompass those that encourage a culture of education and community, inspiring and connecting the early adopters and government open source champions, who will then serve as the foundation of support to the community as it grows.
@@ -28,6 +30,6 @@ By deploying a collaborative strategy to agency open source participation, our a
 
 * [Open Source Metrics](https://opensource.guide/metrics/) (GitHub)
 
-* [Federal Source Code Dashboard](https://www.code.gov/#/policy-guide/docs/compliance/dashboard)
+* [Federal Source Code Dashboard](https://www.code.gov/#/policy-guide/docs/compliance/dashboard) (Code.gov)
 
 * [Project Open Data Dashboard](https://labs.data.gov/dashboard/offices/qa)
