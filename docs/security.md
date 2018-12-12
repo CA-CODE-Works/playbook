@@ -4,7 +4,7 @@
 
 ## Policy
 
-The SAM '[Open Source and Code Policy exceptions 4984.2](https://codecagov-playbook.readthedocs.io/en/latest/policy/)' identifies cerain security exemptions to the state open source policy:
+The SAM '[Open Source and Code Policy exceptions 4984.2](https://codecagov-playbook.readthedocs.io/en/latest/policy/)' identifies certain security exemptions to the state open source policy:
 
 > Nothing in SAM Section 4984 shall be construed to require Agencies/state entities to make custom developed-code available as Open Source, if, on the facts of the particular case, disclosure of that code would reveal vulnerabilities to, or otherwise increase the potential for an attack on, an information technology system of an Agency/state entity. The exceptions provided below may be applied, in specific instances, to exempt an Agency/state entity from sharing custom-developed code with other Agencies/state entities. Any exceptions used must be approved and documented in the enterprise code inventory by the Agency/state entity’s Chief Information Officer (CIO) for the purposes of ensuring effective oversight and management of information technology resources. 
 
