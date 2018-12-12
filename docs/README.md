@@ -1,6 +1,8 @@
 # Welcome
 
-Welcome to the Code California playbook!
+Welcome to the [Code California](https://go.code.ca.gov/) Playbook!
+
+The purpose of this playbook is to provide guidance on creating a collaborative, open source community within California state government.
 
 ## About
 
