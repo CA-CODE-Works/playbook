@@ -1,9 +1,8 @@
 # Platform
 
-**IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details.**
+**IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details. **
 
-[Code.ca.gov](https://code.ca.gov/) is the central platform for finding California government open source software projects. CDT plans to leverage and learn from existing efforts by collaborating with the federal team of code.gov to create the next iteration of code.ca.gov. *CDT plans to leverage and learn from existing efforts by collaborating with the federal team of code.gov to create the next iteration of code.ca.gov.*
-
+[Code.ca.gov](https://code.ca.gov/) is the central platform for finding California government open source software projects. CDT plans to leverage and learn from existing efforts by collaborating with the federal team of code.gov to create the next iteration of code.ca.gov.
 
 This platform follows similar government efforts:
 
