@@ -4,10 +4,11 @@ To facilitate a culture of exponential public sector digital innovation, Code Ca
 
 ## Network
 
-Code California hosts an online and and in person network for its community:
+Code California hosts an online and in person network for its community:
 
 * Slack ([codeCAgov](https://codecagov.slack.com/) / [join](https://join.slack.com/t/codecagov/shared_invite/enQtNDU3MDY2NDUyMTk3LTkxMzEwYzU3MzdkNTE3ZGE0OGY4MjU5YzUzMTE5ODgwZjc3ZDE3MjlhMjQ3NTJkN2Y2NzFmZDk0NzZmNzgwYmU))
-* The community can also participate and meet others through the Department of Technology’s (CDT) [Digital Web Services Network](https://cdt.ca.gov/dwsn/) Quarterly meetings.
+
+* The community can also participate and meet others through the Department of Technology’s (CDT) Digital Web Services Network Quarterly meetings.
 
 ## Users
 
@@ -45,28 +46,6 @@ Code California is led collaboratively and actively supported by these Californi
 
 * [California Health and Human Services Agency](http://www.chhs.ca.gov/Pages/Home.aspx) - Office of Innovation
 
-## Product owner
-
-Code California is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
-
-* Translating community input and lessons learned into continuous improvement action items
-
-* Serving as the primary point of contact on general inquiries related to Code California
-
-* Coordinating administrative aspects of Working Group activities
-
-
-## Code coordinators
-
-Each agency/entity will have a designated code coordinator that:
-
-* Serves as the agency's primary open source point of contact
-
-* Serves as administrator of the agency’s code sharing platform organization account
-
-* Manages the publishing/maintenance of the agency's code.json file
-
-
 ## Working group
 
 The Code California Working Group is comprised of Code Coordinators from each California state agency. The Code California Working Group is led by the California Department of Technology Code Coordinator.
@@ -83,8 +62,26 @@ Working group members perform the following functions:
 
 * Review and publish quarterly participation metrics updates
 
+## Product owner
 
+Code California is led by a product owner sponsored by the California Government Operations Agency (acting). The PO is responsible for:
 
-### Resources
+* Translating community input and lessons learned into continuous improvement action items
+
+* Serving as the primary point of contact on general inquiries related to Code California
+
+* Coordinating administrative aspects of Working Group activities
+
+## Code coordinators
+
+Each agency/entity should have a designated code coordinator that:
+
+* Serves as the agency's primary open source point of contact
+
+* Serves as administrator of the agency’s code sharing platform organization account
+
+* Manages the publishing/maintenance of the agency's code.json file
+
+## Resources
 
 * [Partnering with an empowered product owner](https://18f.gsa.gov/partnership-principles/#partnering-with-an-empowered-product-owner ) (18F)
