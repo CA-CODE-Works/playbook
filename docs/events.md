@@ -2,7 +2,7 @@
 
 Code California hosts and organizes in-person events that bring together community members to align, develop rapport, educate and collaborate in informal, open space environments.
 
-There will be four types of events that Code California plans to support, all of them would meet quarterly or more frequently depending on need:
+Code California plans to support four types of events, held quarterly or more frequently depending on need:
 
 * (Public) Open California Sessions for all Code California community members 
 
