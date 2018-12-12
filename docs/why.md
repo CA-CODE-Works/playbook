@@ -4,9 +4,9 @@ To best serve the people of California, those that support state government serv
 
 ## ‘Committed to improving’
 
-The State of California facilitates this exponential ecosystem by establishing a precedent that empowers an open by default approach to government technology delivery.
+The State of California facilitates this exponential ecosystem by empowering  an open by default approach to government technology delivery.
 
-As stated in the [California open source policy](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pdf), released in July 2018:
+As stated in the [California Open Source and Code Reuse policy](https://www.documents.dgs.ca.gov/sam/SamPrint/new/sam_master/sam_master_File/chap4900/4984.pdf), released in July 2018:
 
 "The California Department of Technology (CDT) is committed to improving the way Agencies/state entities acquire, build, and deliver information technology (IT) solutions, to better support cost efficiency, effectiveness, and the public’s experience with government programs … Enhanced reuse of custom-developed code across state government can have significant benefits for taxpayers, including decreasing duplicative costs for the same code and reducing vendor lock-in."
 
@@ -52,11 +52,11 @@ As the Defense Department says on [code.mil](https://code.mil/why-open-source.ht
 
 "We must more actively participate in the open source and free software communities if we are to truly reap the benefits of OSS."
 
-Code California will reap the benefits of open source through a proactive commitment to its community and the people we serve.
+The State of California will reap the benefits of open source through a proactive commitment to the technology community and the people it serves.
 
 ## Coding California’s future
 
-Through the open source policy and strategy established via Code California, the government service providers of California have a vision and implementation plan that serves its people openly, into the future.
+Through the open source community fostered by Code California, the government service providers of California have a vision and guidance  that serves its people openly, into the future.
 
 ## Resources
 
