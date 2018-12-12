@@ -32,8 +32,6 @@ Code California organizational accounts:
 
 * Tagline: Coding California government
 
-* Hashtag: #CodeCA
-
 * Code California blue: #0071bc
 
 * [Assets](https://github.com/cagov/codecagov/tree/master/assets)
