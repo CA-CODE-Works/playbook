@@ -8,4 +8,4 @@ The Code California Playbook is an evolving document, and we welcome your feedba
 
 * Website ([submit an issue](https://github.com/cagov/codeCAgov/issues))
 
-Not on GitHub? Submit feedback here: (http://bit.ly/CodeCAFeedbackForm)
+Not on GitHub? Submit feedback here: http://bit.ly/CodeCAFeedbackForm
