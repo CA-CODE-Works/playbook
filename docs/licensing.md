@@ -40,6 +40,7 @@ An essential process for releasing custom code as open source is defining the co
 Agencies may choose instead to require individuals to submit a individual contributor license agreement prior to their first contribution. The Apache Software Foundation’s [Individual Contributor License Agreement (ICLA)](https://www.apache.org/licenses/icla.pdf) is widely used agreement widely accepted by prominent nonprofits and corporate entities. 
 
 Procedure
+
     * Individual - Sign the Individual contributor agreement, email code coordinator
     * Corporation or employee - sign the corporate agreement, email code coordinator
 
@@ -49,7 +50,7 @@ Each agency should adopt a policy describing the procedure for accepting contrib
 
 You must add the following licensing documents to your project:
 
-1. **LICENSE
+1. **LICENSE**
 
     a) This file should include the copyright notices for all copyright holders and the full text of all applicable license to the project including a copy of the GNU General Public License version 3 and 
     
@@ -59,28 +60,28 @@ You must add the following licensing documents to your project:
     
 You should also include any other applicable copyright notices in this file as well.
 
-    c) You can find a copy of the GPLv3 here: https://www.gnu.org/licenses/gpl-3.0.txt
+   c) You can find a copy of the GPLv3 here: https://www.gnu.org/licenses/gpl-3.0.txt
 
-2. **README
+2. **README**
 
     a) A brief paragraph consisting of 1 to 4 sentences  succinctly describe what the software does (what problem does it solve?).
     
     b) Your README file must include the following statement clearly indicating the project is being distributed under the terms of the GNU General Public License v3 or any later version.
 
-*LICENSE
+*LICENSE*
 
 *This project is free and open-source software and is distributed under the terms of the GNU General Public License v3 or any later version. It is subject to the license terms in the LICENSE file found in the top-level directory of this distribution and at http://www.example.org/foo/license.html. By submitting a contribution to this project you agree and acknowledge that your contribution may be used under the terms of the GNU General Public License v3 or any later version and you are authorized to submit the contribution on behalf of the copyright holder. No part of this project, including this file, may be copied, modified, propagated, or distributed except according to the terms contained in the LICENSE file.*
 
-
-    c) Your README file should also include sections on:
+   c) Your README file should also include sections on:
     
-        i)**Reporting bugs.** This section should provide information on how State employees, contractors, and the general public can provide feedback (as bug reports or enhancements), and contribute to the software. The most common way is for people to submit Issues on the publicly available GitHub repository.
+   * **Reporting bugs.** This section should provide information on how State employees, contractors, and the general public can provide feedback (as bug reports or enhancements), and contribute to the software. The most common way is for people to submit Issues on the publicly available GitHub repository.
         
-        ii) **Contributing.** This section should  include instructions on how to contribute and explain the contribution process (e.g., are pull requests used?) The instructions should also include the requirements for acceptable contributions (e.g., a reference to any required coding standard or required automated tests) if they exist.
+   * **Contributing.** This section should  include instructions on how to contribute and explain the contribution process (e.g., are pull requests used?) The instructions should also include the requirements for acceptable contributions (e.g., a reference to any required coding standard or required automated tests) if they exist.
         
-        iii) **Getting Started.** This section should include basic documentation on the project or link to the basic documentation stored in a separate file in the code base. The basic documentation should include how to install it, how to start it, how to use it (possibly with a tutorial using examples), and how to use it securely (e.g., what to do and what not to do) if that is an appropriate topic for the software. The security documentation need not be long.
+   * **Getting Started.** This section should include basic documentation on the project or link to the basic documentation stored in a separate file in the code base. The basic documentation should include how to install it, how to start it, how to use it (possibly with a tutorial using examples), and how to use it securely (e.g., what to do and what not to do) if that is an appropriate topic for the software. The security documentation need not be long.
+        
 
-3) When reasonable you should include at the top of each file in the code base the following license notice:
+3) **When reasonable** you should include at the top of each file in the code base the following license notice:
 
 *Copyright 2012 The Foo Project Developers. See the LICENSE file at the top-level directory of this distribution and at http://example.org/project/. No part of the Project, including this file, may be copied, modified, propagated, or distributed except according to the terms contained in the LICENSE file.*
 
@@ -96,19 +97,11 @@ Publish the code publicly on GitHub, unless a specific identifiable risk has bee
 ## Resources
 
 Sample code bases
-
     * https://github.com/cagov/sample-repo-java
-    
     * https://github.com/cagov/sample-repo-csharp
-    
     * https://github.com/cagov/sample-repo-python
-    
     * [Best Practices Criteria for Free/Libre and Open Source Software (FLOSS)](https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md)
-    
     * [Getting Started](https://code.mil/getting-started.html) (Code.mil)
-    
     * [How to Open Source](https://code.mil/how-to-open-source.html) (Code.mil)
-    
     * [New Zealand GOAL Software Extension](https://www.ict.govt.nz/assets/Uploads/NZGOAL-Software-Extension-July-2016.pdf)
-    
     * [Federal Open source policy](https://18f.gsa.gov/open-source-policy/) - see ‘Open source licenses’ section (18F)
