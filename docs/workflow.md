@@ -1,6 +1,7 @@
 # Workflow
 
 **IN PROGRESS: This section is in the early planning stages and is subject to change. Stay tuned for details.**
+
 Updated 01-17-19
 
 Publishing California state government open source projects to code.ca.gov adopts the code.json data management protocol, the same employed by the U.S. Government’s [code.gov](https://code.gov) and NASA’s [code.nasa.gov](https://code.nasa.gov).
@@ -11,7 +12,7 @@ As code.gov and code.nasa.gov do, code.ca.gov will leverage the JSON protocol to
 
 About JSON:
 
-*In computing, JavaScript Object Notation or JSON is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format used for asynchronous browser–server communication. (**[Wikipedi*a](https://en.wikipedia.org/wiki/JSON)*)*
+*In computing, JavaScript Object Notation or JSON is an open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format used for asynchronous browser–server communication. ([Wikipedia](https://en.wikipedia.org/wiki/JSON)*)
 
 The code.json file allows agencies to create a simple file from an established template, input information related to all of the organization’s public open source projects (i.e., repositories), then post this file on its primary website for data harvesting into the code.ca.gov platform.
 
