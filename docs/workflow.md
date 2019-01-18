@@ -14,6 +14,14 @@ About JSON:
 
 The code.json file allows agencies to create a simple file from an established template, input information related to all of the organization’s public open source projects (i.e., repositories), then post this file on its primary website for data harvesting into the code.ca.gov platform.
 
+## code.json Placement
+Each code.json file needs to be placed in a public facing location where the raw json can be read. This can be accomplished by either placing the file on github and using a raw link [(example)](https://raw.githubusercontent.com/ODI-BPA/code.ca.gov/master/code.json) or the file can be placed in a publicly available location on an agencies website.
+
+## Updating the Metadata Location File
+In order for Code.ca.gov to inventory agency code, a single source with reference to each code.json file is necessary.
+
+We house this file on [GitHub](https://github.com/ODI-BPA/code.ca.gov/blob/master/remote_metadata.json) . To update this file with the location of a new code.json file, make a pull request with the new changes and we will review and merge the changes.
+
 ## Resources
 
 California will leverage existing tools and resources created through the federal government’s Code.gov team:
