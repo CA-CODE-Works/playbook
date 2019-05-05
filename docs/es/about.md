@@ -1,41 +1,43 @@
-# About
+# Sobre
 
-Code California is an open collaboration between agencies, industry technology partners and civic technologists working to code a more innovative, collaborative and effective government that best serves the people of California.
+Code California es una colaboración abierta entre agencias, colegas en la industria privada y tecnologos civicos para codigicar un gobierno más inovativo, collaborativo y efectivo para los ciudadanos de California.
 
-## Objective
+## Objetivo
 
-To cultivate an authentic, supportive, open, collaborative network of digital government innovators and facilitate California state agency implementation of the Open Source Software (OSS)and Code Reuse policy as outlined in [Technology Letter 18-02](#heading=h.urh5wmrr4rhi).
+El cultivar una red autentica, abierta y colaborativa de inovadores digitales en el gobierno y facilitarle a agencias gubernamentales la implementación de las politicas de aplicativos de codigo abierto (Open Souce Software) y reuso según enumeradas en el [Technology Letter 18-02](#heading=h.urh5wmrr4rhi).
 
-## Mission
+## Misión
+
+Code California pretende unir, educar e inspirar a la comunidad tecnologica del gobierno de California a construir una fundación de servicios digitales gubernamentales mediante un enfoque abierto y decentralizado de colaboración.
 
 Code California will unite, educate and inspire the California government technology community to build a foundation for digital government services through an open, decentralized approach to code and organizational collaboration.
 
 ## Values
 
-* We serve in the interest of the public and want to be a trusted source
+* Servimos los intereses del publico y queremos ser una fuente confiada
 
-* We maximize taxpayer value by fostering interoperability
+* Maximizamos el value al contribuyente fomentando interoperabilidad
 
-* We work and collaborate in the open
+* Trabajamos y colaboramos de una manera publica
 
-## What we strive for
+## A que aspiramos
 
-(*[Repurposed from 18*F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))
+(*[Reusado de 18*F](https://18f.gsa.gov/code-of-conduct/#what-we-strive-for))
 
-We strive to create a welcoming and inclusive culture that empowers people to provide outstanding public service. That kind of atmosphere requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
+Aspiramos a crear una cultura acogedora e inclusiva the faculta a personas a crear servicios publicos excepcionales. Ese entorno require un intercambio de ideas abierto balanceado por directrices reflexivas. Si solo tenemos un entorno completamente abierto sin directrices colegas que reciban comentarios y/o actiones desconsideradas o intencionalmente hirientes tomaran la desición entendible de alejarse. Con directices intrusivas personas pueden sentirse no bienvenidas.
 
-It would be impossible to list everything public servants can do to create a more welcoming space, and we know this team will find ways to include their colleagues that we haven't even thought of. But when in doubt, we encourage you to look to these principles for guidance:
+Seria imposible enumerar todo lo que servidores publicos pueden hacer para create un entorno más acogedor, sabemos que este equipo encontrara formas de incluir a sus colegas que a nosotros ni se nos ocurra. No obstante, cuando tengan dudas sobre esto pueden tomar estos principios como una guia:
 
-* Practice empathy and humility.
+* Practica la empatia y la humildad.
 
-* Assume competence in your colleagues, clients and the public.
+* Asume la competencia en tus colegas, clientes y en el publico en general.
 
-* Assume that everyone we work with is doing their best work for the public.
+* Asume que todos con los que trabajamos estan dando lo mejor de si para el publico.
 
-* Listen carefully and actively.
+* Escucha cuidadosa y activamente.
 
-* Ask questions, and seek to understand your partners' context.
+* Haz preguntas y busca entender el contexto de tus conpañeros.
 
-* Encourage other people to listen as much as they speak.
+* Fomenta que otras personas escuchen igual o más de lo que hablen.
 
-* Treat other people's identities and cultures with respect. Make an effort to say people's names correctly and refer to them by their chosen pronouns.
+* Trata con respeto la identidad y cultura de otras personas. Haz el esfuerzo de pronunciar el nombre de las personas apropiadamente y se usar los prefijos que ellos han escogido para identificarse.
